@@ -1,4 +1,4 @@
-deli_counter(person)
+deli_counter(katz_deli)
   # if person == 0 
     puts "The line is currently empty."
   # else 
