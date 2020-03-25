@@ -1,4 +1,4 @@
-deli_counter(deli)
+deli_counter(deli_counter)
   if deli == 0 
     return "The line is currently empty"
   else 
